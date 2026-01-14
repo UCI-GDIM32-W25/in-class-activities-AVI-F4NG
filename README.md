@@ -29,7 +29,10 @@
 [Google doc](https://docs.google.com/document/d/1Ze4Iwr71L5shh5hsj0SjaYT7WLsAfV0lCdb13onncaA/edit?usp=sharing)
 
 ## W2
+
+### MG2 Plan
 ![w2breakdown](https://github.com/user-attachments/assets/a878c74b-827a-4598-ac17-7bf72907495f)
 
-[Commit](https://github.com/UCI-GDIM32-W25/mg2-AVI-F4NG/commit/665d08d0351a172d8ddb9dc035d35a66340ce7a6)
+### MG2 Commit
+[Minigame 2 Commit](https://github.com/UCI-GDIM32-W25/mg2-AVI-F4NG/commit/665d08d0351a172d8ddb9dc035d35a66340ce7a6)
 
