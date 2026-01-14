@@ -27,3 +27,7 @@
 ### Activity 3
 
 [Google doc](https://docs.google.com/document/d/1Ze4Iwr71L5shh5hsj0SjaYT7WLsAfV0lCdb13onncaA/edit?usp=sharing)
+
+## W2
+![w2breakdown](https://github.com/user-attachments/assets/a878c74b-827a-4598-ac17-7bf72907495f)
+
