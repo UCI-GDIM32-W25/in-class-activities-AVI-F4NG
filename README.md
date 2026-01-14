@@ -35,5 +35,6 @@
 
 ### MG2 Commit
 [Minigame 2 Commit (scripts)](https://github.com/UCI-GDIM32-W25/mg2-AVI-F4NG/commit/665d08d0351a172d8ddb9dc035d35a66340ce7a6)
+
 [Minigame 2 Commit (scene and readme)](https://github.com/UCI-GDIM32-W25/mg2-AVI-F4NG/commit/e2cce767ede00d831cf9979673a13cf1ebf91ae4)
 
