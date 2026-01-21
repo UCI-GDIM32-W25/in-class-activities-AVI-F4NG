@@ -38,3 +38,9 @@
 
 [Minigame 2 Commit (scene and readme)](https://github.com/UCI-GDIM32-W25/mg2-AVI-F4NG/commit/e2cce767ede00d831cf9979673a13cf1ebf91ae4)
 
+## W3
+
+### Questions 0-2
+Partner name: Ke-Chieh Chang
+
+### Question 3
