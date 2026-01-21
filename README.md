@@ -44,3 +44,5 @@
 Partner name: Ke-Chieh Chang
 
 ### Question 3
+![w3breakdown](https://github.com/user-attachments/assets/116882bd-51c0-47a0-8809-22eb836b2949)
+
