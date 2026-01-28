@@ -11,6 +11,10 @@ public class W4VFX : MonoBehaviour
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
 
+    private void Start()
+    {
+        Locator.Instance.W4Pigeon.Cooing += HandlePigeonCoo;
+    }
 
 
 
