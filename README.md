@@ -57,3 +57,11 @@ Partner name: Ke-Chieh Chang
 All of the Locator components on the GameObjects are destroyed except for one of the GameObjects.
 
 ### Question 2
+
+![w4breakdown](https://github.com/user-attachments/assets/1fcd7319-5b80-4834-ae21-d978023fb4dc)
+
+### Question 3
+
+Created the basic scene (player, ground, pipes, UI, audio source) and empty scripts. 
+
+[Minigame 4 commit](https://github.com/AVI-F4NG/GDIM32-HW4/commit/4002ebe40d05b5c9907ce395fb83fca52155b6f7)
