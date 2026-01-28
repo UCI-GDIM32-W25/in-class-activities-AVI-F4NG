@@ -56,6 +56,8 @@ Partner name: Ke-Chieh Chang
 
 All of the Locator components on the GameObjects are destroyed except for one of the GameObjects.
 
+Because the singleton Locator script destroys itself if the value of Instance is not set to it and Instance is not null, which means that there is another instance of Locator that is the value of Instance.
+
 ### Question 2
 
 ![w4breakdown](https://github.com/user-attachments/assets/1fcd7319-5b80-4834-ae21-d978023fb4dc)
