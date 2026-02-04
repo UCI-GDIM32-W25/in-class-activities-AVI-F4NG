@@ -86,7 +86,7 @@ These render UI and should not decide gameplay rules. Inventory UI (InventoryUI)
 
 #### Controller
 
-These handle input and interaction logic and tell the views what to display. Player / PlayerController: listens for Space input and toggles inventory UI. NPC interaction controller: detects proximity (trigger/collision/distance check) and triggers showing dialogue.
+These handle input and interaction logic and tell the views what to display. Player: listens for Space input and toggles inventory UI. NPC interaction controller: detects proximity with player and triggers showing dialogue.
 
 ### Question 3
 
