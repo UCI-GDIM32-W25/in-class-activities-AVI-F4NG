@@ -78,27 +78,15 @@ I would change the function `Damage()` to a non-abstract function, and change `I
 
 #### Model
 
-These hold the data/state.
-
-Inventory Item ScriptableObjects: fields like itemName, description
-
-NPC ScriptableObjects: fields like hp, dialogueText
+These hold the data/state. Inventory Item ScriptableObjects: fields like itemName, description. NPC ScriptableObjects: fields like hp, dialogueText
 
 #### View
 
-These render UI and should not decide gameplay rules.
-
-Inventory UI (InventoryUI) script owns the Text UI elements and displays the item names.
-
-Dialogue UI script (DialogueBubble) owns the dialogue Text UI element and displays NPC dialogue.
+These render UI and should not decide gameplay rules. Inventory UI (InventoryUI) script owns the Text UI elements and displays the item names. Dialogue UI script (DialogueBubble) owns the dialogue Text UI element and displays NPC dialogue.
 
 #### Controller
 
-These handle input and interaction logic and tell the views what to display.
-
-Player / PlayerController: listens for Space input and toggles inventory UI.
-
-NPC interaction controller: detects proximity (trigger/collision/distance check) and triggers showing dialogue.
+These handle input and interaction logic and tell the views what to display. Player / PlayerController: listens for Space input and toggles inventory UI. NPC interaction controller: detects proximity (trigger/collision/distance check) and triggers showing dialogue.
 
 ### Question 3
 
