@@ -73,3 +73,55 @@ Created the basic scene (player, ground, pipes, UI, audio source) and empty scri
 ### Question 1
 
 I would change the function `Damage()` to a non-abstract function, and change `IBreakable` to an abstract class, because: `Damage()` always deducts damage from `_durability`, logs the remaining durability, and checks if the breakable item breaks. If we put them all into a parent abstract class, we won't need to redefine them in the respective child functions.
+
+### Question 2
+
+#### Model
+
+These hold the data/state.
+
+Inventory Item ScriptableObjects: fields like itemName, description
+
+NPC ScriptableObjects: fields like hp, dialogueText
+
+#### View
+
+These render UI and should not decide gameplay rules.
+
+Inventory UI (InventoryUI) script owns the Text UI elements and displays the item names.
+
+Dialogue UI script (DialogueBubble) owns the dialogue Text UI element and displays NPC dialogue.
+
+#### Controller
+
+These handle input and interaction logic and tell the views what to display.
+
+Player / PlayerController: listens for Space input and toggles inventory UI.
+
+NPC interaction controller: detects proximity (trigger/collision/distance check) and triggers showing dialogue.
+
+### Question 3
+
+#### Scenario 1
+
+- Use ScriptableObjects to store beat data: key input, lane/screen position, timestamp in song.
+
+#### Scenario 2
+
+- Use inheritance/polymorphism for shared character basics: health, movement, animation, etc. Separate Attack classes/interfaces since each attack is unique.
+
+- Use an FSM for character modes: idle/run/jump, synced with animations.
+
+#### Scenario 3
+
+- Use polymorphism for many interactables: they all share the "interact" action but behave differently.
+
+- Use an FSM for player actions and animations.
+
+- Use ScriptableObjects for crop growth data, harvest outputs, tool stats, object HP, etc.
+
+### Question 4
+
+Attendance: Jingyi Cheng, Ke-Chieh Chang, Jamin Pinson
+
+[Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)
