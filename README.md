@@ -67,3 +67,9 @@ The singleton Locator destroys this Locator component (not the GameObject) when 
 Created the basic scene (player, ground, pipes, UI, audio source) and empty scripts. 
 
 [Minigame 4 commit](https://github.com/AVI-F4NG/GDIM32-HW4/commit/4002ebe40d05b5c9907ce395fb83fca52155b6f7)
+
+## W5
+
+### Question 1
+
+I would change the function `Damage()` to a non-abstract function, and change `IBreakable` to an abstract class, because: `Damage()` always deducts damage from `_durability`, logs the remaining durability, and checks if the breakable item breaks. If we put them all into a parent abstract class, we won't need to redefine them in the respective child functions.
