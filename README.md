@@ -112,4 +112,20 @@ These handle input and interaction logic and tell the views what to display. Pla
 
 Attendance: Jingyi Cheng, Ke-Chieh Chang, Jamin Pinson
 
+## W6
+
+### Question 1
+
+#### Gizmos
+
+Gizmos would be useful in debugging vector-based data that cannot easily be visualized with Debug.Log(). Because I wanted to implement an enemy chase function, it would be helpful to put a line vector visualizer on the enemy to represent the direction and velocity of its movement, to make sure that it is moving in the correct direction at the correct speed.
+
+#### Profiling
+
+Profiling is good if we encounter performance issues that affect gameplay (like low frame rates) and help us tell what caused the problem. If our game started to drop in frame rate during gameplay, we can use profiling to see if it's a problem of code logic or graphics, and then solve the problem accordingly.
+
+#### Breakpoints
+
+Just like in the demo, when we encounter errors like NullReferenceException but are unsure what exactly is null or what method is causing the problem exactly, we can make use of breakpoints to make Unity pause the program to see what is occurring at the point before the line that the error is occurring.
+
 [Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)

@@ -1580,7 +1580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c0c8e8271b4349308ad57e8bebb212b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _fruitPrefab: {fileID: 1633218321483951569, guid: 4a9e0f76fe08c4fa38647bd42d6d1144, type: 3}
+  _fruitPrefab: {fileID: 1633218321483951569, guid: 7a8197e0015ee45cc8a514176f03f3b0, type: 3}
   _worldBoundsMin: {x: -5.5, y: -2.5}
   _worldBoundsMax: {x: 5.5, y: 2.5}
   _numFruit: 700
