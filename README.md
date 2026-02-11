@@ -128,4 +128,8 @@ Profiling is good if we encounter performance issues that affect gameplay (like 
 
 Just like in the demo, when we encounter errors like NullReferenceException but are unsure what exactly is null or what method is causing the problem exactly, we can make use of breakpoints to make Unity pause the program to see what is occurring at the point before the line that the error is occurring.
 
+### Question 2
+
+Attendance: Jingyi Cheng, Ke-Chieh Chang, Jamin Pinson
+
 [Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)
