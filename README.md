@@ -136,7 +136,7 @@ Attendance: Jingyi Cheng, Ke-Chieh Chang, Jamin Pinson
 
 ### Question 1
 
-in the scene, the duck has a raycast (a ray that starts from a certain point on the duck) pointing towards the direction of the player. 
+In the scene, the duck has a raycast (a ray that starts from a certain point on the duck) pointing towards the direction of the player. 
 
 Normally, the duck is in the state of walking in random directions, and will detect obstacles blocking it in front of it with a sphere cast, which detects any objects in front of it and makes the duck change a direction if obstacles are present. This prevents the duck from attempting to "walk into" obstacles.
 
@@ -149,7 +149,19 @@ Gizmos are used to illustrate the duck's raycast and the sphere cast. If an obst
 Attendance: Jingyi Cheng, Ke-Chieh Chang
 
 ### Question 3
+![Final Breakdown](https://github.com/user-attachments/assets/ce838779-b49e-46d3-9fb4-64b0055db358)
 
+### Question 4
+
+[Trello board](https://trello.com/invite/b/699520c42af86468a42b832e/ATTI61651b57118e04a653d44f56be77e69aEE93D4D2/gdim32-final)
+
+Tasks: 
+
+- Jingyi Cheng: find art assets (3D models for player, items, and friendly NPC), start planning terrain design
+
+- Ke-Chieh Chang: start with monster script
+
+### Question 5
 
 
 [Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)
