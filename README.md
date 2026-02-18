@@ -132,4 +132,24 @@ Just like in the demo, when we encounter errors like NullReferenceException but 
 
 Attendance: Jingyi Cheng, Ke-Chieh Chang, Jamin Pinson
 
+## W7
+
+### Question 1
+
+in the scene, the duck has a raycast (a ray that starts from a certain point on the duck) pointing towards the direction of the player. 
+
+Normally, the duck is in the state of walking in random directions, and will detect obstacles blocking it in front of it with a sphere cast, which detects any objects in front of it and makes the duck change a direction if obstacles are present. This prevents the duck from attempting to "walk into" obstacles.
+
+If the player is within the distance of the raycast and there are no obstacles blocking the duck's raycast, the duck will switch to the state of chasing the player.
+
+Gizmos are used to illustrate the duck's raycast and the sphere cast. If an obstacle gets in the raycast's way, a sphere will be present at the location where the raycast "collides" with the obstacle. If the player "collides" with the raycast, the gizmo line will change in color, and a sphere will also appear at where the raycast "collided" with the player. A sphere is used to show the sphere cast.
+
+### Question 2
+
+Attendance: Jingyi Cheng, Ke-Chieh Chang
+
+### Question 3
+
+
+
 [Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)
