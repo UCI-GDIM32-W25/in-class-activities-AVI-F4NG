@@ -153,7 +153,7 @@ Attendance: Jingyi Cheng, Ke-Chieh Chang
 
 ### Question 4
 
-[Trello board](https://trello.com/invite/b/699520c42af86468a42b832e/ATTI61651b57118e04a653d44f56be77e69aEE93D4D2/gdim32-final)
+Trello board: [Link](https://trello.com/invite/b/699520c42af86468a42b832e/ATTI61651b57118e04a653d44f56be77e69aEE93D4D2/gdim32-final)
 
 Tasks: 
 
@@ -163,5 +163,6 @@ Tasks:
 
 ### Question 5
 
+Commit: [Link](https://github.com/AVI-F4NG/GDIM32-Final/commit/5bcb73ca5f1614eb26f9531fb6d211ebb0eb437e)
 
 [Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)
