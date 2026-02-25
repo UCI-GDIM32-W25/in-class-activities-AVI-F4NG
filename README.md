@@ -166,3 +166,27 @@ Tasks:
 Commit: [Link](https://github.com/AVI-F4NG/GDIM32-Final/commit/5bcb73ca5f1614eb26f9531fb6d211ebb0eb437e)
 
 [Final project proposal](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing)
+
+## W8
+
+### Question 1
+
+post-processing: not an individual shader, renders after all the shaders are rendered, whole screen effect
+
+setting up: open in package manager in unity, then add post-processing layer to camera, then add volume to an empty GameObject
+
+### Question 2
+
+Attendance: Jingyi Cheng, Ke-Chieh Chang
+
+### Question 3
+
+Observation: we only hinted the playtesters about the main character's WASD movement when the playtest started. When the game started, the playtesters quickly understand that they should try to run away from the monster that chases them right from the start. Our playtesting group actually spontaneously discovers that they can sprint by holding left shift (which they said is a common feature in games), and they also successfully run away from the monster after using sprinting, which is what we intended to do. All playtesters and LA found the monster model to be terrifying, which is exactly what we are trying to achieve.
+
+### Question 4
+
+finding assets for lantern and gem, create post-processing
+
+### Question 5
+
+https://github.com/AVI-F4NG/GDIM32-Final/commit/138ae370262e5f8dadc0a67936923d95c2c8e545
