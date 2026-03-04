@@ -218,4 +218,5 @@ We've actually finished a handful of scripts and scene assets we planned on the 
 
 ### Question 5
 
+Added a UI panel for mouse sensitivity adjustments.
 [Commit](https://github.com/AVI-F4NG/GDIM32-Final/commit/bec4e437a2f5eb0d64bea7149d074ec33e1dcebb)
