@@ -190,3 +190,32 @@ finding assets for lantern and gem, create post-processing
 ### Question 5
 
 https://github.com/AVI-F4NG/GDIM32-Final/commit/138ae370262e5f8dadc0a67936923d95c2c8e545
+
+
+## W9
+
+### Question 1
+
+We have to consider the scalability of our projects when coding. 
+
+One thing about being scalable is how to make it easy for other collaborators to use and incorporate our program. We should consider from the perspectives of artists, designers, writers, etc. and make the scripts/code structure as accessible as possible to them, so that they don't have to understand all the code logic to add their parts of data into the game.
+
+Another important thing is performance: we need to consider making the game run in an efficient way, so processing units can compile scripts without performance issues such as framerate lags.
+
+In the example, we learned about how the dialogue content and branches is kept in scriptableObjects, separate from the code logic, which makes it easier to read and edit than hard-coded dialogue.
+
+### Question 2
+
+Attendance: Jingyi Cheng, Ke-Chieh Chang
+
+### Question 3
+
+We got playtested by our buddy team, TAs, and the professor! Hurray! For this round of playtest, we received feedbacks about how our game UI is off on the itch page (which is also a device issue because it looks off on my (team captain) laptop but not teammate's). Besides that, playtesters mostly understood the flow of the game and complete quest 1 with only some tiny hints. Before the final, we will tackle the problems about UI (that maintain across devices' itch pages), quest guides (some playtesters couldn't find the lantern without hinting; general interaction distance with objects; and so on), and player experience (modify player and monster speed; modify the interaction of player vs monster). We should also make use of the large-scaled map we've made. 
+
+### Question 4
+
+We've actually finished a handful of scripts and scene assets we planned on the trello board, which is good progress in my mind. We've originally planned to have half of the items checked off the list, but actually the items we checked off exceeds half, leaving only a few scripts and functions yet to be implemented. However, our project proposal was very detailed and looking much more complex than what we currently have, which pushes our actual progress towards that one less than half. Therefore, if we were to finish a playable and criteria-fulfilling game, our progress is pretty healthy and exceeds expectations; if we were to finish exactly what we wrote on the proposal, we still need much work.
+
+### Question 5
+
+[Commit](https://github.com/AVI-F4NG/GDIM32-Final/commit/bec4e437a2f5eb0d64bea7149d074ec33e1dcebb)
