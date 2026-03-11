@@ -220,3 +220,40 @@ We've actually finished a handful of scripts and scene assets we planned on the 
 
 Added a UI panel for mouse sensitivity adjustments.
 [Commit](https://github.com/AVI-F4NG/GDIM32-Final/commit/bec4e437a2f5eb0d64bea7149d074ec33e1dcebb)
+
+
+## W10
+
+### Question 1
+
+Attendance: Jingyi Cheng, Ke-Chieh Chang
+
+### Question 2
+
+Playtest notes: Playtested by TA! The game itself doesn't change much from last week. Playtester observed and appreciated how the typing effect of dialogue is cool, and how we could improve more on the way that monster approaches the player. We are currently trying to fix the vector operation of monster's moving behavior to make it more active in chasing the player.
+
+### Question 3
+
+final to-do list:
+- fear meter
+	- if the player is close enough to the monster, the fear meter grows
+	- if the stun skill is used, can also reduce fear meter
+	- when talking to the npc, temporarily disables fear meter
+- quest 2: crystal search and pickup
+	- find 3 crystals scattered in the map
+	- npc dialogue should change after the lantern is picked up: help me find 3 glow stones in the map
+	- player must return to npc to "return" the task to him
+- sound effects
+	- monster
+	- footsteps
+	- picking up items (lantern, glow stones)
+	- using lantern skill
+- fixes
+	- increase monster chase range (to make game more challenging)
+	- settings screen: mouse sensitivity
+
+We can complete the rest within the next week. However, this comes with some adjustments of the original proposal. We have removed the beacon quest, and switched the end goal to completing quest 2 (glow stone search) and returning the quest to the NPC rather than making to a certain area and escaping. This makes the project scope more doable under the constraints of a week.
+
+### Question 4
+
+[Commit](https://github.com/AVI-F4NG/GDIM32-Final/commit/053cf02a411fc09c7b9ec31c42837f7a2e0ad07f)
